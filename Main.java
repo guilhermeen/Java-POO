@@ -1,5 +1,5 @@
 package projeto001;
-public class Projeto001 {
+public class Main {
     public static void main(String[] args) {
         Video v[]= new Video[3]; // Define quntidades de videos
         v[0]=new Video("Aula 01 de POO"); // Chama o metodo construtor da classe Video para o index 0
