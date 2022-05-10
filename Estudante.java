@@ -3,7 +3,7 @@ public class Estudante extends Pessoa {
     private String login;
     private int totAssistido;
 
-    public Estudante(String nome, int idade, String sexo){
+    public Estudante(String nome, int idade, String sexo, String login){
         super(nome,idade,sexo);
         this.login=login;
         this.totAssistindo=0;
