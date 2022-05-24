@@ -35,7 +35,7 @@ public class Visualizacao {
     }
 
 
-    public Estudante setEspectador() {
+    public Estudante getEspectador() {
         return espectador;
     }
 
